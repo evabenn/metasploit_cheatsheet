@@ -5,7 +5,7 @@ This is a practical, battle-tested Metasploit Cheat Sheet designed for daily use
 It covers all key phases of the Metasploit workflow:
 
 - ✅ **Setup**: msfconsole, msfvenom, payload types, LHOST/RHOST
-- ✅ **Post-Exploitation**: Meterpreter commands, file system, privilege escalation, post modules
+- ✅ **Exploitation  & Control**: Meterpreter commands + post modules
 - ✅ **Session Management & Pivoting**: sessions, jobs, routing, and auxiliary modules
 
 ---
